@@ -1,7 +1,8 @@
 Deberán crear 1 archivo HTML de temática libre que incluya:
-head--check
-body--
-nav
-1 lista con 3 enlaces
+head --
+body --
+nav ---
+1 lista con 3 enlaces ---
 4 divs
-2 imágenes
+2 imágenes --
+
