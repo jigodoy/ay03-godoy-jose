@@ -3,6 +3,6 @@ head --
 body --
 nav ---
 1 lista con 3 enlaces ---
-4 divs
+4 divs ---
 2 imágenes --
 
