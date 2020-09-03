@@ -16,7 +16,8 @@
 #imagen_2{
     float: center;
     width: 550px;
-    margin: 10px 10px 10px 10px ;
+    margin-left: auto;
+    margin-right: auto;
     padding: 10px;
 }
 
@@ -36,6 +37,12 @@
 
 #header{
     color:green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#agradecimiento{
+    color:rgb(147, 79, 220);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
 }
