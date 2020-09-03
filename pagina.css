@@ -1,0 +1,41 @@
+.div{
+    background: palegoldenrod;
+    float: left;
+    width: 800px;
+    margin: 10px 10px 10px 10px ;
+    padding: 10px;
+}
+#imagen_1{
+    float: right;
+    height: 200px;
+    margin: 10px 10px 10px 10px ;
+    padding: 10px;
+
+}
+
+#imagen_2{
+    float: center;
+    width: 550px;
+    margin: 10px 10px 10px 10px ;
+    padding: 10px;
+}
+
+#cabecera{
+    color:#103536;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.div_2{
+    background: #AFD9DE;
+    float: left;
+    width: 600px;
+    margin: 10px 10px 10px 10px ;
+    padding: 10px;
+}
+
+#header{
+    color:green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}

@@ -1,8 +1,6 @@
-Deberán crear 1 archivo HTML de temática libre que incluya:
-head --
-body --
-nav ---
-1 lista con 3 enlaces ---
-4 divs ---
-2 imágenes --
+Referenciar el archivo CSS en el archivo HTML
 
+Hacer mínimo 7 reglas CSS referenciando a los selectores
+que quieran estilar y dentro de ellas utilizar al menos 3 propiedades
+
+Agregarle margin o padding a todos los divs en su archivo HTML
